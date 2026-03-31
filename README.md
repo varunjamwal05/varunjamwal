@@ -1,118 +1,138 @@
 <h1 align="center">Hi 👋, I'm Varun Jamwal</h1>
 
 <p align="center">
-Frontend-focused developer passionate about building modern, interactive web experiences.
+Frontend Developer • Problem Solver • Building Modern Web Applications
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=3BA7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Node.js+Developer;Building+Real+World+Projects;Always+Learning+New+Things" />
 </p>
 
 ---
 
-### 💭 A Thought I Like
+# 🚀 About Me
 
-> *“The best way to predict the future is to build it.”*
+I'm a developer passionate about **building real-world web applications and clean user interfaces**.
 
----
+I enjoy creating **interactive frontend experiences, smooth UI animations, and modern web products**.
 
-## 🚀 About Me
-
-I'm a developer who enjoys turning ideas into real, usable products.
-I’m particularly interested in **frontend development, UI design, and creating smooth user experiences**.
-
-I like building projects that solve real problems while also experimenting with **creative interfaces, animations, and clean design systems**.
-
-Currently focusing on improving my **full-stack skills while keeping strong emphasis on frontend creativity**.
+Currently working on building **portfolio-level projects** and improving my **full-stack development skills**.
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-**Frontend**
+### 💻 Programming Languages
+
+* C++
+* JavaScript
+* HTML5
+* CSS3
+
+### 🎨 Frontend
 
 * React
-* JavaScript (ES6+)
 * Tailwind CSS
-* HTML5 & CSS3
+* Responsive UI Design
+* Framer Motion
 
-**Backend**
+### ⚙️ Backend
 
 * Node.js
 * Express.js
+* REST APIs
+* JWT Authentication
 
-**Database**
+### 🗄 Database
 
 * MongoDB
+* Mongoose
 
-**Tools & Platforms**
+### 🧰 Tools
 
-* Git & GitHub
-* Vercel
+* Git
+* GitHub
 * Postman
+* Vercel
 * Figma
+* VS Code
+
+### 🧠 Problem Solving
+
+* Data Structures & Algorithms
+* Competitive Programming
+* Active on LeetCode
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🌍 Roametra
 
-A collaborative **travel planning platform** where groups can plan trips together.
+A **collaborative travel planning platform** where groups can organize trips together.
 
 Features include:
 
-* Group trip creation
-* Voting for destinations and activities
+* Trip creation
+* Group voting
 * Shared itinerary planner
-* Expense splitting system
-* Packing checklist for travelers
+* Expense splitting
+* Packing checklist
 
-Built with:
+Tech Stack:
 React • Node.js • Express • MongoDB
 
 ---
 
 ### ✍️ Inkvero
 
-A project focused on building clean and modern web interfaces with strong attention to design and usability.
+A modern web application focused on **clean UI design and interactive user experiences**.
 
 ---
 
-### 💼 Personal Portfolio
+### 💼 Portfolio Website
 
-A responsive developer portfolio showcasing my projects, skills, and work.
+My personal developer portfolio showcasing projects and skills.
 
 🔗 **Live:**
 https://varunjamwal.vercel.app/
 
 ---
 
-## 🎯 Current Focus
+# 📊 GitHub Stats
 
-* Building **Roametra** — a full-stack travel planning platform
-* Improving my **React and UI development skills**
-* Creating **portfolio-level projects with real-world features**
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=varunjamwal05&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunjamwal05&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌱 What I'm Learning
+# 🌱 Currently Learning
 
 * Advanced React patterns
-* Better full-stack architecture
-* Building scalable web applications
+* Scalable backend architecture
+* Building production-level full-stack apps
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-Portfolio:
+🌐 Portfolio
 https://varunjamwal.vercel.app/
 
-GitHub:
+💻 GitHub
 https://github.com/varunjamwal05
 
-LinkedIn:
+💼 LinkedIn
 https://www.linkedin.com/in/varunkumarjamwal/
 
 ---
 
 <p align="center">
-Always building, always learning.
+Always building. Always learning.
 </p>
+
