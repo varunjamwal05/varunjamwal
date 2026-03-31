@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Varun Jamwal</h1>
 
 <p align="center">
-Frontend Developer • Problem Solver • Building Modern Web Applications
+Full-stack Developer • Problem Solver • Building Modern Web Applications
 </p>
 
 <p align="center">
@@ -99,17 +99,11 @@ https://varunjamwal.vercel.app/
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=varunjamwal05&show_icons=true&theme=tokyonight" />
-</p>
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunjamwal05&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunjamwal05&layout=compact&theme=tokyonight" />
-</p>
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=varunjamwal05&layout=compact&theme=tokyonight)
 
 # 🌱 Currently Learning
 
