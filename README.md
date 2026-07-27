@@ -251,63 +251,106 @@ With every project, my goal is simple:
 
 ---
 
-## 💼 Portfolio Website
+## 💼 Portfolio
 
-A modern portfolio showcasing my projects, technical skills, and development journey.
+> **A modern developer portfolio** designed to showcase my projects, technical expertise, and journey as a Full-Stack Developer through an interactive and responsive experience.
 
-🔗 **Live**
+### ✨ Highlights
 
-https://varunjamwal.vercel.app/
+- 🎨 Modern & Responsive UI
+- ⚡ Smooth Animations
+- 📂 Featured Projects Showcase
+- 🛠 Technical Skills Overview
+- 📄 Resume & Contact Section
+- 🌙 Clean Developer Experience
 
-Built using:
+### ⚡ Built With
 
-Next.js • Tailwind CSS • Framer Motion
+<p align="left">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+</p>
+
+### 🌐 Explore
+
+<p>
+<a href="https://varunjamwal.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Visit_Portfolio-00C853?style=for-the-badge"/>
+</a>
+</p>
+
+> *Crafted with creativity, performance, and attention to detail.*
+
+# 🌱 Currently Exploring
+
+<p>
+
+<img src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Advanced_Next.js-000000?style=for-the-badge&logo=nextdotjs"/>
+
+<img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+
+<img src="https://img.shields.io/badge/Microservices-FF6B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend_Architecture-009688?style=for-the-badge"/>
+
+</p>
+
+> 🚀 *Learning never stops.*
 
 ---
 
-# 🌱 Currently Learning
-
-- System Design
-- Advanced Next.js
-- AI Agent Workflows
-- LangGraph
-- Scalable Backend Architecture
-- PostgreSQL Optimization
-- Microservices Fundamentals
-
----
-
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=varunjamwal05&theme=github-dark&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=varunjamwal05&show_icons=true&theme=tokyonight"/>
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=varunjamwal05&show_icons=true&hide_border=true&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=varunjamwal05&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=varunjamwal05&hide_border=true"/>
+</p>
 
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+I'm always open to discussing new opportunities, collaborating on exciting projects, or simply connecting with fellow developers.
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunjamwal05&layout=compact&theme=tokyonight"/>
+<a href="https://varunjamwal.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/varunjamwal05" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/varunkumarjamwal/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
+<p align="center">
+<i>Building products that are fast, intuitive, and genuinely enjoyable to use.</i> 🚀
+</p>
+
 ---
-
-# 📫 Connect With Me
-
-🌐 **Portfolio**
-
-https://varunjamwal.vercel.app/
-
-💻 **GitHub**
-
-https://github.com/varunjamwal05
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/varunkumarjamwal/
 
 ---
 
