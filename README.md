@@ -19,13 +19,12 @@ Full-Stack Developer • AI-Powered Web Applications • Modern UI/UX Enthusiast
 
 # 🚀 About Me
 
-I'm a Full-Stack Developer passionate about building modern, scalable, and AI-powered web applications.
+> *"I don't just build websites—I build digital experiences."*
 
-I enjoy designing polished user interfaces, developing secure backend systems, integrating AI workflows, and solving real-world problems through technology.
+I'm a Full-Stack Developer who enjoys bringing ideas to life through modern web technologies. Whether it's crafting pixel-perfect interfaces, designing scalable APIs, or integrating AI into real-world applications, I love creating products that balance aesthetics, performance, and usability.
 
-Currently focused on building production-ready projects using modern JavaScript frameworks, cloud technologies, and AI tools.
-
----
+With every project, my goal is simple:
+**Build software that's beautiful, fast, and genuinely useful.**
 
 # 🛠 Tech Stack
 
