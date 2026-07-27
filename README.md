@@ -176,39 +176,79 @@ Currently focused on building production-ready projects using modern JavaScript 
 
 ## ✍️ Inkvero
 
-A full-stack social platform for book lovers where users can discover books, write reviews, manage personal bookshelves, and join reading communities.
+> **A modern social platform for book enthusiasts** where readers can discover books, share reviews, build personal bookshelves, and connect through reading communities.
 
-### Features
+### ✨ What it does
 
-- Authentication
-- Book Reviews
-- Reading Groups
-- Personal Bookshelf
-- Admin Dashboard
-- Responsive UI
+- 📚 Discover & Explore Books
+- ⭐ Write & Share Reviews
+- 📖 Personal Reading Bookshelf
+- 👥 Join Reading Communities
+- 🛡️ Secure JWT Authentication
+- ☁️ Cloud Image Uploads
+- 📱 Fully Responsive Experience
 
-**Tech Stack**
+### ⚡ Tech Stack
 
-React • Node.js • Express.js • MongoDB • JWT • Cloudinary
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### 🌐 Explore
+
+<p>
+<a href="https://inkvero.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🚀_Live_Demo-00C853?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/varunjamwal05/Inkvero" target="_blank">
+<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+> *Discover. Read. Review. Connect.*
 
 ---
 
 ## 🌍 Roametra
 
-A collaborative travel planning platform that helps groups organize trips together.
+> **A collaborative travel planning platform** that simplifies group trips with shared itineraries, expense tracking, and real-time planning tools.
 
-### Features
+### ✨ What it does
 
-- Shared Trip Planning
-- Expense Splitting
-- Group Voting
-- Packing Checklist
-- Collaborative Itinerary
-- Real-time Group Management
+- 🗺️ Collaborative Trip Planning
+- 🗓️ Shared Itinerary Builder
+- 💸 Expense Splitting
+- 🗳️ Group Voting
+- 🎒 Smart Packing Checklist
+- 👥 Real-time Group Management
+- 📱 Responsive User Experience
 
-**Tech Stack**
+### ⚡ Tech Stack
 
-React • Node.js • Express.js • MongoDB
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
+
+### 🌐 Explore
+
+<p>
+<a href="https://github.com/varunjamwal05/Roametra" target="_blank">
+<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+> *Plan together. Travel smarter. Create unforgettable journeys.*
 
 ---
 
